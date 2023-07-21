@@ -1,1 +1,1 @@
-My very first readme
+Welcome to the ALX Pre Course repository! This repository serves as a pre-course introduction to programming concepts and basics, designed as a preparation for the challenges and projects at ALX. The pre-course covers essential topics and exercises that will help you get up to speed and ready to dive into more advanced programming concepts.
